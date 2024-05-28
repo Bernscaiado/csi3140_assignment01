@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+  }
+  
+  .hero {
+    position: relative;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .about, .portfolio {
+    padding: 50px 0;
+  }
+  
+  .about p {
+    line-height: 1.5;
+  }
+  
+  .portfolio {
+    text-align: center;
+  }
+  
+  .project-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .project-list li {
+    margin: 10px;
+  }
+  
+  .project-list li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .project-list li img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  footer li {
+    display: inline-block;
+  }
+  
