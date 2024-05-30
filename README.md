@@ -21,3 +21,5 @@ Build a personal portfolio website using HTML and CSS. Incorporate your resume a
 ## Submission
 Submit your project to the `portfolio` repository on GitHub.
 
+Bernardo Caiado (300130165)
+Jaafar Soudani (0300220938) 
